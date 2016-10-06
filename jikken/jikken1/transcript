@@ -1,0 +1,29 @@
+# OpenFile test_mux21.v 
+vlog test_mux21.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux21
+# -- Compiling module test
+# 
+# Top level modules:
+# 	test
+vsim test
+# vsim test 
+# Loading work.test
+# Loading work.mux21
+view wave
+# .main_pane.wave.interior.cs.body.pw.wf
+add wave *
+run 80ns
+run 80ns
+# ** Note: $finish    : test_mux21.v(34)
+#    Time: 140 ns  Iteration: 0  Instance: /test
+# 1
+# Break in Module test at test_mux21.v line 34
+view wave
+# .main_pane.wave.interior.cs.body.pw.wf
+run 80ns
+run 80ns
+run 80ns
+run 80ns
+add wave *
+quit
