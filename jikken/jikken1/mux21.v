@@ -11,3 +11,4 @@ module mux21(S1, D0, D1, Y);
   // Y = ((not S1) and D0) or (S1 and D1)
   assign Y = (~S1 & D0) | (S1 & D1);  // 出力ポートYへの代入(assign)
 endmodule
+

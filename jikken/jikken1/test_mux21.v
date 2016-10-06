@@ -17,7 +17,7 @@ module test;  // テストベンチもジュール、入出力ポートはなし
   // module mux21(S1, D0, D1, Y) の実体化
   mux21 mux21a(S1, D0, D1, Y);
 
-  initial bigin
+  initial begin
     // S1, D0, D1 の初期化
     S1 = 0; D0 = 0; D1 = 0;
 
