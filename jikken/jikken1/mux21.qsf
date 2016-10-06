@@ -1,6 +1,6 @@
 # Project-Wide Assignments
 # ========================
-set_global_assignment -name LAST_QUARTUS_VERSION 16.0.2
+set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"
 
 # Pin & Location Assignments
 # ==========================
