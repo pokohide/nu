@@ -1,7 +1,7 @@
-/*                 *
- * adder16.v       *
- * 16ãƒ“ãƒƒãƒˆåŠ ç®—å›žè·¯*
- *                 */
+/*                   *
+ * adder16.v         *
+ * 16 ƒrƒbƒg‰ÁŽZ‰ñ˜H *
+ *                   */
 
 module adder16(x, y, cin, sum, cout);
   input [15:0] x, y;
@@ -10,6 +10,6 @@ module adder16(x, y, cin, sum, cout);
   output [15:0] sum;
   output cout;
 
-  assign {cout, sum} = x + y + cin:
+  assign {cout, sum} = x + y + cin;
 endmodule
 
