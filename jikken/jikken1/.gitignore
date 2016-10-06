@@ -1,2 +1,6 @@
 db/*
 incremental_db/*
+transcript
+vsim.wlf
+work/
+
