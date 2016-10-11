@@ -4,3 +4,19 @@ transcript
 vsim.wlf
 work/
 
+*.asm.rpt
+*.done
+*.fit.rpt
+*.fit.smsg
+*.fit.summary
+*.flow.rpt
+*.jdi
+*.map.rpt
+*.map.summary
+*.pin
+*.qws
+*.sld
+*.sta.rpt
+*.sta.summary
+*.qdf
+
