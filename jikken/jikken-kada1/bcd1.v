@@ -15,14 +15,14 @@ module bcd1(clk, reset, x, bcd1_out);
   always @(posedge clk or negedge reset) begin
     if(reset == 1'b0) begin
       /* レジスタの初期値を設定(count_reg = 0000) */
-      // count_reg[0] <= 1'b0;
+      //count_reg[0] <= 1'b0;
       // count_reg[1] <= 1'b0;
       // count_reg[2] <= 1'b0;
       // count_reg[3] <= 1'b0;
       count_reg = 0;
     end else begin
       if(x == 1'b1) begin  // x が 1'b1 のときにカウンタが動く
-        if(&count_reg) begin // if(count_reg = 1111) count_reg = 0000
+        if(count_reg == 9) begin // if(count_reg = 1111) count_reg = 0000
           // count_reg[0] <= 1'b0;  
           // count_reg[1] <= 1'b0;
           // count_reg[2] <= 1'b0;
