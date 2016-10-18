@@ -1,6 +1,6 @@
 /*                              *
  * adder16s.v                   *
- * 順序回路版 16 ビット加算回路 *
+ * 順序回路版 16 ビット加算回路     *
  *                              */
 
 module adder16s(clk, reset, x, y, cin, sum, cout);

@@ -1,6 +1,6 @@
 /*                   *
  * adder16.v         *
- * 16 ƒrƒbƒg‰ÁŽZ‰ñ˜H *
+ * 16 ãƒ“ãƒƒãƒˆåŠ ç®—å›žè·¯   *
  *                   */
 
 module adder16(x, y, cin, sum, cout);
