@@ -1,0 +1,553 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.9.18)  14 OCT 2016 19:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/01/01> patch level 2)
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2014/02/07 okumura
+
+! LaTeX Error: Font family `JY2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325 ...{mc}{m}{n}{<-> s * [0.924690] upjisr-h}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JY2+gt' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 ...{gt}{m}{n}{<-> s * [0.924690] upjisg-h}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 ...{mc}{m}{n}{<-> s * [0.924690] upjisr-v}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+gt' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.328 ...{gt}{m}{n}{<-> s * [0.924690] upjisg-v}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JY2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 ...pe{\jsc@JYn}{mc}{m}{it}{<->ssub*mc/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JY2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.339 ...pe{\jsc@JYn}{mc}{m}{sl}{<->ssub*mc/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JY2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.340 ...pe{\jsc@JYn}{mc}{m}{sc}{<->ssub*mc/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JY2+gt' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.341 ...pe{\jsc@JYn}{gt}{m}{it}{<->ssub*gt/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JY2+gt' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 ...pe{\jsc@JYn}{gt}{m}{sl}{<->ssub*gt/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JY2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.343 ...e{\jsc@JYn}{mc}{bx}{it}{<->ssub*gt/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JY2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 ...e{\jsc@JYn}{mc}{bx}{sl}{<->ssub*gt/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345 ...pe{\jsc@JTn}{mc}{m}{it}{<->ssub*mc/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.346 ...pe{\jsc@JTn}{mc}{m}{sl}{<->ssub*mc/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.347 ...pe{\jsc@JTn}{mc}{m}{sc}{<->ssub*mc/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+gt' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.348 ...pe{\jsc@JTn}{gt}{m}{it}{<->ssub*gt/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+gt' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.349 ...pe{\jsc@JTn}{gt}{m}{sl}{<->ssub*gt/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.350 ...e{\jsc@JTn}{mc}{bx}{it}{<->ssub*gt/m/n}{}
+                                                  
+? 
+
+! LaTeX Error: Font family `JT2+mc' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.351 ...e{\jsc@JTn}{mc}{bx}{sl}{<->ssub*gt/m/n}{}
+                                                  
+? 
+LaTeX Info: Redefining \rmfamily on input line 352.
+LaTeX Info: Redefining \sffamily on input line 355.
+LaTeX Info: Redefining \ttfamily on input line 358.
+
+! LaTeX Error: Encoding scheme `JY2' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.421 ...areSymbolFont{mincho}{\jsc@JYn}{mc}{m}{n}
+                                                  
+? 
+
+! LaTeX Error: Unknown symbol font `mincho'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.422 ...eclareSymbolFontAlphabet{\mathmc}{mincho}
+                                                  
+? 
+
+! LaTeX Error: Encoding scheme `JY2' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.423 ...bolFont{mincho}{bold}{\jsc@JYn}{gt}{m}{n}
+                                                  
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \symmincho 
+l.424     \jfam\symmincho
+                         
+? 
+
+! LaTeX Error: Encoding scheme `JY2' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.425 ...MathAlphabet{\mathgt}{\jsc@JYn}{gt}{m}{n}
+                                                  
+? 
+\fullwidth=\dimen118
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\@abstractbox=\box41
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\js@tocl@width=\dimen119
+\@lnumwidth=\dimen120
+\bibindent=\dimen121
+LaTeX Info: Redefining \TeX on input line 1731.
+LaTeX Info: Redefining \LaTeX on input line 1757.
+LaTeX Info: Redefining \LaTeXe on input line 1782.
+\heisei=\count89
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2015/08/16 v4.05 LaTeX color/graphics driver for dvipdfmx (T
+eX Live/ChoF)
+))
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/ascmac.sty
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/tascmac.sty
+\@savetbaselineshift=\dimen124
+\@saveybaselineshift=\dimen125
+\scb@x=\box42
+\scscb@x=\box43
+\@bw=\dimen126
+\@nbox=\box44
+\@nbody=\box45
+\@scw=\dimen127
+\@itemh=\dimen128
+\@iboxpos=\toks16
+\@iboxstr=\box46
+\@bwsp=\box47
+\@@bwsp=\box48
+\@bcal=\count90
+\shaderule=\dimen129
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/plext.sty
+Package: plext 
+File: plext.dtx 2001/09/26 v1.2 pLaTeX package file
+\@floatbox=\box49
+\floatwidth=\dimen130
+\floatheight=\dimen131
+\floatruletick=\dimen132
+\captionfloatsep=\dimen133
+\captionwidth=\dimen134
+\@captionbox=\box50
+\save@ybaselineshift=\dimen135
+\save@tbaselineshift=\dimen136
+\@picwd=\dimen137
+\rensujiskip=\skip43
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count91
+\lst@gtempboxa=\box51
+\lst@token=\toks17
+\lst@length=\count92
+\lst@currlwidth=\dimen138
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen141
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box52
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+
+! LaTeX Error: File `jlisting.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+\c@lstlisting=\count99
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 27.
+ (./report.toc)
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 60.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
+
+! Undefined control sequence.
+l.71     \fontnote
+                  {lnコマンドはファイルやディレクトリへのリンクを作成するコ...
+? 
+! Undefined control sequence.
+l.73     \fontnote
+                  {lnコマンドに-sオプションを指定することで、作成される。特...
+? 
+! Extra }, or forgotten \endgroup.
+l.76 ...ce /path/to/directory/cadsetup.csh.altera}
+                                                  」
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 77.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 77.
+
+Overfull \hbox (3.32504pt too wide) in paragraph at lines 76--79
+[]\JY1/mc/m/n/10 作成した設定フ ァ イルを読み込むために 「\OT1/cmtt/m/n/10 sour
+ce /path/to/directory/cadsetup.csh.altera\JY1/gt/m/n/10 」[][][]
+ []
+
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 85.
+
+LaTeX Warning: Reference `fig:1' on page 2 undefined on input line 85.
+
+
+LaTeX Warning: Reference `fig:1' on page 2 undefined on input line 92.
+
+File: images/fig01.eps Graphic file (type eps)
+<images/fig01.eps> [2
+
+] (../../jikken1/mux21.v
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 1.
+
+)
+
+LaTeX Warning: Reference `fig:1' on page 3 undefined on input line 117.
+
+(../../jikken1/test_mux21.v [3])
+
+LaTeX Warning: Reference `fig:1' on page 4 undefined on input line 138.
+
+! Misplaced alignment tab character &.
+l.165   \item 「{\tt vsim test\_mux21.v &
+                                         }」コマンドを端末上で実行して、Mode...
+
+? 
+[4]
+! Misplaced alignment tab character &.
+l.185   \item 端末から「{\tt quartus &
+                                      }」を実行してQuartus IIを起動して、プ...
+? 
+[5]
+
+LaTeX Warning: Reference `fig:02' on page 6 undefined on input line 218.
+
+File: images/fig02.eps Graphic file (type eps)
+<images/fig02.eps>
+
+LaTeX Warning: Reference `fig:03' on page 6 undefined on input line 232.
+
+File: images/fig03.eps Graphic file (type eps)
+<images/fig03.eps>
+
+LaTeX Warning: Reference `fig:04' on page 6 undefined on input line 242.
+
+
+LaTeX Warning: Reference `fig:04' on page 6 undefined on input line 243.
+
+File: images/fig04.eps Graphic file (type eps)
+<images/fig04.eps>
+
+LaTeX Warning: Reference `fig:05' on page 6 undefined on input line 253.
+
+File: images/fig05.eps Graphic file (type eps)
+<images/fig05.eps>)
+*\end
+
+*
+Runaway argument?
+! Paragraph ended before \end was complete.
+<to be read again> 
+                   \par 
+<*> 
+    
+? 
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*^^[[A
+! Text line contains an invalid character.
+<*> ^^[
+       [A
+? ^^[[A^^[[A^^[[A
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+H for help, X to quit.
+? \end
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+H for help, X to quit.
+? \end
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+H for help, X to quit.
+? \end
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+H for help, X to quit.
+? 
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+
+*\end
+! TeX capacity exceeded, sorry [input stack size=5000].
+\end #1->\csname end#1
+                      \endcsname \@checkend {#1}\expandafter \endgroup \if@e...
+<*> \end
+        
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
+
+ 
+Here is how much of TeX's memory you used:
+ 2375 strings out of 493779
+ 31735 string characters out of 6151456
+ 146996 words of memory out of 5000000
+ 5853 multiletter control sequences out of 15000+600000
+ 15762 words of font info for 63 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 5000i,8n,5000p,204b,1583s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on report.dvi (5 pages, 23208 bytes).
